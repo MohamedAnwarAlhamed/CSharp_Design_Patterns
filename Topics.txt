@@ -1,0 +1,28 @@
+Creational
+    - singleton.
+    - Lazy Loading, Eager Loading
+    - Factory
+    - Prototype
+Structural
+    - Adapter
+    - Composite
+    - Proxy
+    - FlyWieght
+    - Facade
+    - Bridge
+    - Decorator
+Behavior
+    - Template Method
+    - Mediator
+    - Chain of Responsibility
+    - Observer
+    - Strategy
+    - Command
+    - State
+    - Visitor
+    - Iterator
+    - Interpreter
+    - Memento
+
+Key Words:-
+Params, 
